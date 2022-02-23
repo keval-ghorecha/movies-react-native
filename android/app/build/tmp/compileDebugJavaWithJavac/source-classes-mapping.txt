@@ -1,0 +1,14 @@
+com/movie/MainApplication.java
+ com.movie.MainApplication
+ com.movie.MainApplication$1
+com/movie/ReactNativeFlipper.java
+ com.movie.ReactNativeFlipper
+ com.movie.ReactNativeFlipper$1
+ com.movie.ReactNativeFlipper$2
+ com.movie.ReactNativeFlipper$2$1
+com/movie/MainActivity.java
+ com.movie.MainActivity
+com/movie/BuildConfig.java
+ com.movie.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
