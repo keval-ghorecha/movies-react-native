@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/repo
     docker:
-      - image: circleci/android:2023.08.1-node
+      - image: cimg/android:2023.08.1-node
     environment:
       JVM_OPTS: -Xmx3200m
     steps:
